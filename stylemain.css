@@ -1,0 +1,13 @@
+.header{
+	top: 0px;
+	background: #33FCFF;
+	width: 20%;
+	position: fixed;
+	height: 50px;
+}
+img{
+	width: 100%;
+}
+.slide{
+	top: 0px;
+}
